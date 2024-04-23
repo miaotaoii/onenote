@@ -1,0 +1,261 @@
+Terms of Use
+
+These terms of service are made between OneNote(“OneNote “, “We”, “Our”, “Us”) for OneNote 's mobile device application or website (“OneNote”) and Users who download software for OneNote (“the OneNote APP) or access, use, or subscribing to OneNote ( “you,” “User” or “Users”) can only do so by accepting the following terms and conditions of service and Privacy Policy (please see HERE).
+
+Please read the following terms of service carefully before using OneNote. 
+PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 21 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED, AND INCLUDE AN ARBITRATION AGREEMENT AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. 
+
+By downloading the OneNote APP or accessing/using OneNote, you are acknowledging that you have read, understood and agreed to be bound by the following terms and conditions (the “agreement”). This includes accepting any modifications made to these terms and conditions from time to time, without limitation or qualification.
+
+Notice to California subscribers: You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed.If you subscribed using your Apple ID, refunds are handled by Apple, not OneNote.         If you wish to request a refund, please visit https://getsupport.apple.com.
+
+If you are not willing to agree to this agreement in full please stop using OneNote immediately.
+
+1. LOCATION DATA — AN IMPORTANT DISCLAIMER
+
+The location feature in OneNote is for personal non-commercial use only. It is not suitable for emergency, navigation, or any mission critical or safety applications whatsoever. it must not be relied upon when operating machinery or vehicles, or in any circumstance where death, serious injury or damage to property may result. OneNote is not suitable for business use of any description, or for tracking persons or equipment, and must not be used for these purposes.
+
+2. ELIGIBILITY TO USE ONENOTE
+OneNote is not available to and must not be accessed by any person under the age of 18 years in any circumstances. No person over the age of 18  may allow or solicit a minor to view or use OneNote in any circumstances whatsoever. You must be at least 18 years of age to create an account on OneNote. By creating an account and using OneNote, you represent and warrant that:
+you can form a binding contract with OneNote and are not legally prohibited from using OneNote,
+you will comply with this agreement and all applicable local, state, national and international laws, rules and regulations, including without limitation, privacy laws, intellectual property laws, anti-spam laws, and regulatory requirements,
+you have not committed, been convicted of, or pled no contest to a felony, a sex crime, or any crime involving violence or a threat of violence, and
+you have not previously been removed from OneNote by us.
+If at any time you cease to meet the foregoing eligibility requirements, you are prohibited from accessing OneNote, and you must immediately delete your account.
+3. UPDATES TO THIS AGREEMENT
+I. We reserve the right at our own discretion to modify, add to, change, or remove parts of this agreement (including the Acceptable Use Guidelines) at any time. We will notify you of any such modification, addition, change or removal by sending an e-mail to the last e-mail address provided by you, and/or by posting notice of such update on OneNote, and you hereby agree that this will constitute effective notice of any such update. It will be your responsibility to provide us with an up to date email address, and to check from time to time for changes to the agreement. Should an email dispatched by us to the last email address provided by you not for any reason reach you, our having dispatched that email will nevertheless constitute effective notice of the changes we were trying to inform you about.
+
+II. Your continuing to use OneNote after we have dispatched an email to you containing notice of updates to the agreement, or after we have posted notice of such updates on OneNote, constitute binding acceptance by you of those updates, and agreement that such updates shall automatically come into effect 30 days after our email giving notice to you was sent, or 30 days after notice of the changes was posted on OneNote.
+
+III. For new users of OneNote, updates will be effective immediately.
+
+4. OWNERSHIP OF ONENOTE
+
+I. OneNote is owned and operated by M.T. The OneNote APP, content, visual interfaces, information, graphics, design, compilation, computer code, products and services including but not limited to the mobile device application and all other elements of OneNote (collectively, the “Materials”) are protected by United States copyright, trade dress, patent, and trademark laws, as well as international laws and conventions, and all other relevant intellectual property and proprietary rights and applicable laws.
+
+II. All Materials are the property of M.T, its subsidiaries or affiliated companies and/or third-party licensors. All trademarks, service marks, and trade names displayed on OneNote are proprietary to M.T. or its affiliates and/or third-party licensors. Unless you are expressly authorized in writing to do so by M.T, you agree not to sell, license, distribute, copy, modify, publicly perform or display, transmit, publish, edit, adapt, create derivative works from or otherwise make unauthorized use of the Materials.
+
+5. ACCEPTABLE USE GUIDELINES AND PROHIBITED CONDUCT AND CONTENT
+
+I. OneNote's Acceptable Use Guidelines located at OneNote.app/terms (“the Guidelines”) are hereby incorporated into this agreement. Under this agreement you have a duty to familiarize yourself with these Guidelines before posting any photo, text, or links to OneNote.
+
+II. You hereby acknowledge and agree that you will comply with the Guidelines.
+Specifically, and without prejudice to any other provision contained in the Guidelines, you warrant that you will not:
+
+A. Use OneNote or any location information obtained from OneNote to “stalk”, harass, intimidate, abuse, defame, threaten or defraud other Users. Nor will you collect or attempt to collect or store location or personal information about other Users;
+
+B. Use OneNote if you are under the age of 18 years;
+
+C. Make use of obscene, offensive or pornographic materials, or materials that depict minors or are in any way harmful to minors in your OneNote profile page;
+
+D. Use OneNote for any commercial or non-private use, or any use incompatible with its intended purpose of personal, non-commercial use only;
+
+E. Send junk mail to other Users of OneNote, or make unsolicited offers, advertisements or proposals to them. This includes but is not limited to unsolicited advertising, promotional materials or other solicitation material, bulk mailing of commercial advertising, chain mail, informational announcements, charity requests or requests to sign petitions;
+
+F. Use OneNote for any illegal purpose, or in violation of any applicable law, rule, or regulation, whether local, state, national, international or otherwise, including but not limited to laws governing intellectual property and other proprietary rights, data protection and privacy, and import or export control;
+
+G. Access or attempt to access the OneNote account of any other User;
+
+H. Impersonate any person or entity, or falsely claim a connection with any person or entity;
+
+I. Make any misrepresentation about the source, identity or content of information transmitted via OneNote;
+
+J. Remove, disable, override, circumvent, interfere with or in any way defeat the purpose of security-related features of OneNote, or make any attempt to do the same. This includes features that prevent or restrict use or copying of content accessed through OneNote, or features that enforce limitations on the use of OneNote;
+
+K. Deliberately interfere with or damage the operation of OneNote, or any User's enjoyment of OneNote, by any means, including but not limited to introducing or knowingly allowing the introduction of any virus, worm, Trojan or other malicious code;
+
+L. Gain or attempt to gain unauthorized access to OneNote, or any part of it, or to other accounts, computer systems or networks connected to OneNote, or any part of it, through hacking, password mining or any other means, or interfere or attempt to interfere with the proper working of OneNote any activities conducted on OneNote;
+
+M. Use or attempt to use any robot, spider, scraper or other automated means to access OneNote for any purpose without our express written permission, or bypass our robot exclusion headers or other measures we may use to prevent or restrict access to OneNote, or modify OneNote in any manner or form, nor to use modified versions of OneNote for the purpose of obtaining unauthorized access to OneNote or any other purpose；
+
+N. Post, store, transmit or in any way disseminate or allow to be transmitted or disseminated any material which a reasonable person could deem to be objectionable, defamatory, libelous, offensive, obscene, indecent, pornographic, harassing, threatening, embarrassing, distressing, vulgar, hateful, racially or ethnically or otherwise offensive to any group or individual, intentionally misleading, false, or otherwise inappropriate, regardless of whether this material or its dissemination is unlawful;
+
+O. Post, store, transmit or in any way disseminate or allow  the transmission or dissemination of any material which infringes any patent, trademark, trade secret, copyright, or any other proprietary or intellectual property right;
+
+P. Use OneNote or attempt to use OneNote for tracking, locating, navigating or controlling any vehicle or other equipment or machinery, or any person, other than locating another User in the course of the bona fide use of the application in accordance with its intended purpose as set out in this agreement; or
+
+Q. Use OneNote or attempt to use OneNote with any products, systems or applications installed or otherwise connected to or in communication with vehicles of any sort;
+
+R. Use OneNote in connection with hazardous environments requiring fail-safe performance or any application in which the failure or inaccuracy of that application or of OneNote could lead directly to death, personal injury, or severe physical or property damage.
+
+III. Content Rights and Restrictions. While using OneNote, you will have access to: (i) content that you upload or provide while using OneNote ("Your Content"); and (ii) content that other users upload or provide while using OneNote ("Member Content"). In this agreement, "content" includes, without limitation, all text, images, video, audio, or other material on OneNote, including information on users’ profiles and in direct messages between users.
+A.Your Content and certain other information about you are subject to our privacy policy, which can be viewed at OneNote. Your Content must abide by the Guidelines, and you are at all times solely responsible for Your Content and for the consequences of posting or publishing it. You are solely responsible and liable for Your Content, and, therefore, you agree to indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content.
+B. You represent and warrant to us that the information you provide to us or any other user is accurate, and that you will update your account information as necessary to ensure its accuracy. If you choose to reveal any personal information about yourself to other users, you do so at your own risk. We encourage you to use caution in disclosing any personal information online. You are solely responsible for your involvement with other Users, and you agree that M.T will not be responsible or liable for any loss or damage suffered as a result of such involvement.
+C.	Your individual profile will be visible to other people, so be sure that you are comfortable sharing Your Content before you post. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding this agreement, other users may share Your Content with third parties. By uploading Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so, including any written consents, releases, and/or permissions from identifiable individual persons in Your Content to use the name or likeness of each and every such identifiable individual person, and you grant us a license to use Your Content in connection with OneNote.
+D. You understand and agree that we may monitor or review Your Content, including by way of example and not limitation meeting requests, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time in our sole discretion. We do not control any content made available by users on OneNote, including meeting requests, and you are solely responsible for all Your Content in your meeting requests. Furthermore, you understand agree that we have no obligation to display or review Your Content.
+E. M.T assumes no responsibility whatsoever in connection with or arising from Your Content. M.T assumes no responsibility for actively monitoring Your Content for inappropriate content. If at any time M.T chooses, in its sole discretion, to monitor Your Content, M.T nevertheless does not assume any responsibility for the content of the Your Content, no obligation to modify or remove any inappropriate Your Content, and no responsibility for the conduct of the User submitting Your Content. Further, M.T does not endorse and has no control over the content of Your Content submitted by other Users. M.T makes no warranties, express or implied, as to the content of Your Content or the accuracy and reliability of any Your Content. Nonetheless, M.T reserves the right to prevent you from submitting Your Content and to edit, restrict or remove Your Content for any reason at any time.
+
+IV. Enforcement. If you violate the Guidelines or the rules regarding Your Content set forth above, we may stop providing OneNote to you or we may close your OneNote account. We may also block delivery of any communications  to or from the OneNote APP in an effort to enforce this agreement or we may remove or refuse to publish Your Content for any reason. When investigating alleged violations of this agreement, M.T. reserves the right to review Your Content in order to resolve the issue. However, we cannot and will not be monitoring the entirety of the content uploaded by users on OneNote.
+
+6. USAGE AND TERMINATION OF SERVICE
+
+A. You acknowledge that parts of OneNote may be accessed by downloading OneNote to a mobile device without the need to register an account. You are responsible for the security of the mobile device on which OneNote is installed or used. If you choose to use OneNoteor register for an account with OneNote, you represent and warrant that: (a) all the registration information you submit is truthful and accurate; and (b) you will keep this information accurate and up to date. You are responsible for maintaining the confidentiality of your OneNote login information and for the security of your mobile device, and are fully responsible for all activities that occur under your OneNote account. You agree to notify M.T immediately of any unauthorized use, or suspected unauthorized use of your OneNote account or any other breach of security. M.T cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+
+M.T reserves the right to refuse access to any User for any reason, without notice.
+
+B. If you provide any feedback or suggestions to M.T regarding OneNote (“Feedback”), you hereby assign to M.T all rights in the Feedback and agree that M.T shall have the right to use such Feedback and related information in any manner it deems appropriate. M.T will treat any Feedback you provide to it as non-confidential and non-proprietary. You agree that you will not submit to M.T any information or ideas that you consider to be confidential or proprietary.
+
+7. THIRD-PARTY SITES, PRODUCTS AND SERVICES; LINKS
+
+I. OneNote may, solely as a convenience to Users, include links to other web sites or services (“Third Party Websites”). M.T does not endorse any such linked sites or the information, material, products or services contained on such linked sites or accessible through other linked sites. Furthermore, M.T makes no express or implied warranties with regard to the information, material, products or services that are contained on or accessible through linked sites. Access and use of linked sites, including information, material, products and services on linked sites or available through linked sites is solely at your own risk.
+
+A. Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through OneNote are solely between you and such advertiser. You agree that M.T shall not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such advertisers on OneNote.
+
+B. Parties other than M.T may provide services or sell products through OneNote. We are not responsible for examining or evaluating, and we do not warrant the offerings of any of these businesses, nor the content of their product and service offerings. M.T does not assume any responsibility or liability for the actions, product, or content of these or any other third parties. You should carefully review their privacy statements and other terms and conditions of use.
+
+C. By your use of third party applications that connect with OneNote (“Third Party Applications”), you acknowledge and agree that M.T may transmit User Submissions to Third Party Websites or Third Party Applications through application protocol interfaces developed and maintained by those Third Party Websites or Third Party Applications. M.T is not responsible for the transmission of the User Submissions from OneNote to Third Party Websites or Third Party Applications, nor the use of the User Submissions on any Third v Websites or Third Party Applications. You should review the terms of service and privacy policies of any Third Party Websites or Third Party Applications. M.T is not responsible for and does not endorse any features, content, or other materials on or available from Third Party Sites or Third Party Applications. M.T also does not screen, audit, or endorse Third Party Sites or Third Party Applications. Accordingly, if you decide to access Third Party Sites or Third Party Applications, you do so at your own risk and agree that your use of any Third Party Sites or Third Party Applications is on an “as-is” basis without any warranty as to the Third Party Sites or Third Party Applications actions, and that this agreement does not apply to your use of any Third Party Sites or Third Party Applications.
+
+8. ADVERTISING
+
+M.T and its licensees may publicly display advertisements and other information adjacent to Your Content. You are not entitled to any compensation for such advertisements. The manner, mode and extent of such advertising are subject to change without specific notice to you.
+
+9. END USER LICENSES
+
+I. Mobile Device. To use OneNote you must have a mobile device that is compatible with the OneNote application. M.T does not warrant that OneNote will be compatible with your mobile device.
+
+II.License Grant. Subject to the terms of this agreement, M.T hereby grants you a non-exclusive, non-transferable, revocable license to a compiled code copy of OneNote for one account on one mobile device owned or leased solely by you, for your personal, noncommercial use.
+
+A. Restrictions: You may not: (i) modify, disassemble, decompile or reverse engineer OneNote, except to the extent that such restriction is expressly prohibited by law; (ii) rent, lease, loan, resell, sublicense, distribute or otherwise transfer OneNote to any third party or use OneNote to provide time sharing or similar services for any third party; (iii) make any copies of OneNote; (iv) remove, circumvent, disable, damage or otherwise interfere with security-related features of OneNote, features that prevent or restrict use or copying of any content accessible through OneNote, or features that enforce limitations on use of OneNote; or (v) delete the copyright and other proprietary rights notices on OneNote.
+
+B. Software Upgrades. You acknowledge that M.T may from time to time issue upgraded versions of OneNote, and may automatically electronically upgrade the version of OneNote that you are using on your mobile device. You consent to such automatic upgrading on your mobile device, and agree that the terms and conditions of this agreement will apply to all such upgrades. You agree that M.T will not be liable to you for any such modifications.
+
+C. Open Source. With respect to any open source or third-party code that may be incorporated in OneNote, such open source code is covered by the applicable open source or third-party license EULA, if any, authorizing use of such code. Nothing in this agreement limits your rights under, or grants you rights that supersede, the terms and conditions of any applicable end user license for such open source software. In particular, nothing in this agreement restricts your right to copy, modify, and distribute such open source software that is subject to the terms of the GNU General Public License.
+
+III. Rights Reserved. The foregoing license grant under this agreement is not a sale of OneNote or any copy thereof and M.T or its third party partners or suppliers retain all right, title, and interest in OneNote (and any copy thereof). Any attempt by you to transfer any of the rights, duties or obligations hereunder, except as expressly provided for in this agreement, is void. M.T reserves all rights not expressly granted under this agreement.
+
+IV. Trademarks, Service Marks and Logos. The name of this web site is a service mark of M.T. No use of this mark shall be permitted except through the prior written authorization and permission of M.T.
+
+V. Export Control. OneNote originates in the United States, and is subject to United States export laws and regulations. OneNote may not be exported or re-exported to certain countries or those persons or entities prohibited from receiving exports from the United States. In addition, the OneNote may be subject to the import and export laws of other countries. You agree to comply with all United States and foreign laws related to the use of OneNote and the OneNote APP.
+
+VI. App Stores. You acknowledge and agree that the availability of the OneNote APP is dependent on the third party from which you received the OneNote APP, e.g., the Android Market or Apple App Store. You acknowledge that this agreement is between you and M.T and not with the App Store. Each App Store may have its own terms and conditions to which you must agree before downloading the OneNote APP from it. You agree to comply with, and your license to use the OneNote APP is conditioned upon your compliance with, all applicable terms and conditions of the applicable App Store.
+
+10. VIOLATIONS; TERMINATION
+
+I. You agree that if M.T believes in good faith belief that you have violated any of the terms and conditions of this agreement, it may terminate any account you have with OneNote or your use of OneNote or any portion thereof, and remove and discard all or any part of your account or any of Your Content, at any time. You agree that any termination of your access to OneNote or any account you may have or portion thereof may be effected without prior notice, and you agree that M.T will not be liable to you or any third-party for any such termination. M.T does not permit copyright infringing activities on OneNote, and reserves the right to terminate access to OneNote, and remove all content submitted, by any persons who are found to be repeat infringers. Any suspected fraudulent, abusive or illegal activity that may be grounds for termination of your use of OneNote and may be referred to appropriate law enforcement authorities. These remedies are in addition to any other remedies M.T may have at law or in equity.
+
+II. You agree that if M.T believes that any account you have with OneNote or your use of OneNote or any portion thereof involves any violation of this agreement, it may ban your post or your account depending on the severity of the circumstance.
+
+11. ALL WARRANTIES DISCLAIMED
+
+I. OneNote (and any third-party software, services, or applications made available in conjunction with or through OneNote) are provided “as is”, “as available”, and without warranties of any kind either express or implied. M.T and its suppliers and partners, disclaim all warranties, express or implied, including but not limited to implied warranties of title, merchantability, fitness for a particular purpose, and non-infringement of proprietary rights.
+
+II.  M.T and its suppliers and partners do not warrant that the functions contained in OneNote will be uninterrupted or error-free, that defects will be corrected, or that OneNote or the server that makes it available are free of viruses or other harmful components.
+
+III. M.T and its suppliers and partners (including third-party wireless carrier partners) do not warrant or make any representations regarding the use or the results of the use of any location information or the OneNote APP in terms of security, safety, correctness, accuracy, reliability, or otherwise. you (and not M.T or its suppliers or partners) assume the entire cost of any necessary services or equipment necessary to access OneNote. you understand and agree that you download or otherwise obtain material or data through the use of OneNote at your own discretion and risk.
+
+IV. Certain state laws do not allow limitations on implied warranties. if these laws apply to you, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you might have additional rights.
+
+12. INDEMNIFICATION; HOLD HARMLESS
+
+You agree to indemnify, defend, and hold M.T (and its affiliated companies, contractors, employees, agents, and suppliers and partners) harmless from any and all claims, suits, actions, losses, costs, damages, and any other liabilities, including legal fees, brought by a third party arising out of or related to (a) your use or misuse of any location information or OneNote generally, (b) any violation of the rights of any other person or entity by you, (c) any breach or violation by you of this agreement, or (d) your use of OneNote to meet another User in-person or to locate and attend any offline place or event. M.T reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
+
+13. LIMITATION OF LIABILITY AND DAMAGES
+
+I. You acknowledge and agree that under no circumstances, including negligence, will M.T (or its affiliates, contractors, employees, agents, or third-party partners or suppliers) be liable to you for any special, indirect, incidental, punitive, reliance, consequential, or exemplary damages related to or resulting from: (a) the use, disclosure, display, or maintenance of your location information; (b) your use or inability to use OneNote; (c) OneNote generally (including the OneNote APP) or systems that make OneNote available; or (d) any other interactions with OneNote or any other user of OneNote, even if M.T or a M.T authorized representative has been advised of the possibility of such damages. you agree that the limitations of liability set forth in this section will survive any termination or expiration of this agreement and will apply even if any limited remedy specified herein is found to have failed in its essential purpose.
+
+II. In no event shall the total liability to you of M.T (or its affiliates, contractors, employees, agents, suppliers, or third-party partners or suppliers) for all damages, losses, and causes of action arising out of or relating to this agreement or your use of OneNote (whether in contract, tort, warranty, or otherwise, including but not limited to negligence), exceed the amounts paid by you for accessing OneNote during the twelve (12) months immediately preceding the date of your claim or fifty dollars, whichever is greater.
+
+III. Applicable law in your state may not allow the limitation or exclusion of liability or incidental or consequential damages, so the above limitation or exclusion may not apply to you. in such cases, you agree that M.T’s liability will be limited to the extent permitted by applicable law in your state.
+
+IV. Certain state laws do not allow limitations on implied warranties. if these laws apply to you, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you might have additional rights.
+
+14. BENEFIT OF THE BARGAIN
+
+You acknowledge and agree that M.T has offered OneNote, set its prices, and entered into this agreement in reliance upon the warranty disclaimers and the limitations of liability set forth above. you further acknowledge and agree that the warranty disclaimers and the limitations of liability set forth in this agreement reflect a reasonable and fair allocation of risk between you and M.T, and that the warranty disclaimers and the limitations of liability set forth in this agreement form an essential basis of the bargain between you and M.T. M.T would not be able to provide OneNote to you on an economically reasonable basis without these limitations and disclaimers.
+
+15. RELEASE
+
+You hereby release and forever discharge us (and our officers, employees, agents, successors, and assigns) from, and hereby waive and relinquish, each and every past, present and future dispute, claim, controversy, demand, right, obligation, liability, action and cause of action of every kind and nature (including personal injuries, death, and property damage), that has arisen or arises directly or indirectly out of, or relates directly or indirectly to, (1) any interactions with, or act or omission of, or User Submissions provided by, other OneNote Users or (2) any third party site, products, services, and links included on or accessed through OneNote. If you are a California resident, you hereby waive California civil code section 1542 in connection with the foregoing, which states: “a general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.”
+
+16. DIGITAL MILLENNIUM COPYRIGHT ACT COMPLIANCE
+
+I. It is M.T's policy to respond to notices of alleged infringement that comply with the Digital Millennium Copyright Act. In addition, M.T will promptly terminate without notice the accounts of Users that are determined by M.T. to be “repeat infringers”. A repeat infringer is a User who has been notified by M.T of infringing activity violations more than twice and/or who has had a User Submission removed from OneNote more than twice.
+
+II. If you are a copyright owner or an agent thereof, and you believe that any content hosted on OneNote infringes your copyrights, then you may submit a notification pursuant to the Digital Millennium Copyright Act (“DMCA”) by providing M.T's Designated Copyright Agent with the following information in writing:
+
+A. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;
+
+B. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on OneNote are covered by a single notification, a representative list of such works on OneNote;
+
+C. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit M.T to locate the material;
+
+D. Information reasonably sufficient to permit M.T to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;
+
+E. A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law (for example, “I am under the good faith belief that the use of the copyrighted content that is identified herein is not authorized by the copyright owner, its agent, or the law.”); and
+
+F. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed (for example, “I swear, under penalty of perjury, that the information in this notification is accurate and that I am the copyright owner, or authorized to act on behalf of the copyright owner, of the copyright(s) that is allegedly infringed by the aforementioned content”).
+
+III. M.T's Designated Copyright Agent to receive notifications of claimed infringement can be reached as follows: Attention: Copyright Agents
+
+IV. M.T
+
+V. Email: 15664738128@gmail.com
+
+VI. For clarity, only DMCA notices should go to the M.T Designated Copyright Agent. You acknowledge that if you fail to comply with all of the requirements of this section, your DMCA notice may not be valid. Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+
+17. PAYMENTS, CANCELLATION, FINAL SALE
+
+I. Any and all payments made to M.T for use and access to OneNote are final and all charges are nonrefundable and there are no refunds or credits for partially used periods. Cancellations are effective the following billing period in which payment is due. You will not receive a refund for any payment, even if payment was made for multiple billing periods. If you have an account set up for reoccurring billing, you may cancel your account at any time. You will continue to have the same access for any billing period or periods for which you have paid. If your profile content or your conduct within OneNote violates our Terms of Service, your access and account may be immediately terminated and all payments forfeited. We may make an exception if a refund for a subscription offering is requested within fourteen days of the transaction date, or if the laws applicable in your jurisdiction provide for refunds.
+
+If you made a purchase using your Apple ID, refunds are handled by Apple, not OneNote.       To request a refund, go to the App Store, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at https://getsupport.apple.com.
+
+II. We reserve the right at any time to charge fees for access to any portion or portions of OneNote.
+
+III. We occasionally provide special offers with discounts. The terms of each offer are described on the page where the payment is made. To be granted the discount, you have to accept our terms when completing a payment. Terms, discounts, and offers are subject to change or cancellation at any time without notice.
+
+Promotional Subscription Price. With an active subscription, the promotional price may be valid either for a limited time or forever. In case the obtained promotional price is indefinite with an active subscription, the price will revert to the standard price once you unsubscribe.
+
+18. MISCELLANEOUS
+
+I. Governing Law. This agreement shall be governed by and construed in accordance with the laws of the State of New York, USA, without giving effect to any principles of conflicts of law.
+
+II. Jurisdiction. Nothing in this agreement shall prevent M.T from seeking injunctive relief in a court of competent jurisdiction.
+
+III. Arbitration, Class Action Waiver, and Jury Trial Waiver. 
+
+A.  Please read this Section carefully. It provides that all Disputes between you and us shall be resolved by binding arbitration. Arbitration facilitates the efficient resolution of any dispute, claim, or controversy between you and us regarding any aspect of your relationship with us, whether based in contract, statute, regulation, ordinance, tort (including without limitation fraud, misrepresentation, negligence, or reckless behavior), or any other legal or equitable theory, and includes the validity, enforceability or scope of this agreement that may arise (collectively, “Disputes”). Arbitration is a form of private Dispute resolution in which parties agree to submit their Disputes to a neutral third person (called an arbitrator) for a binding decision, instead of having such Dispute(s) decided in a lawsuit, in court, by a judge or jury trial. The arbitrator will follow the process set forth herein and can award the same damages and relief as a court (including attorney’s fees, if otherwise authorized by applicable law).
+Arbitration replaces the right to go to court. In the absence of this agreement, you may otherwise have a right or opportunity to bring claims in a court, before a judge or jury, and/or to participate in or be represented in a case filed in court by others (including, but not limited to, class actions). Entering into this agreement constitutes a waiver of your right to litigate claims in court and any opportunity to be heard by a judge or jury. 
+Except as provided below, any and all Disputes arising in connection with this agreement will be resolved exclusively and finally by binding arbitration rather than in court.
+B. Pre-Arbitration Dispute Resolution. For all Disputes you must first give M.T an opportunity to resolve the Dispute. You must commence this process .
+C. Arbitration Procedures. If the Dispute is not resolved as provided above, either you or M.T may initiate arbitration proceedings. The American Arbitration Association (“AAA”) will arbitrate all Disputes, and the arbitration will be conducted before a single arbitrator. The arbitration shall be commenced as an individual arbitration, not a class arbitration. All issues shall be for the arbitrator to decide.  For arbitration before the AAA, for Disputes of less than $75,000 USD, the AAA’s Consumer Arbitration Rules will apply; for Disputes involving $75,000 USD or more, the AAA’s Commercial Arbitration Rules will apply. The AAA rules are available at www.adr.org or by calling 1-800-778-7879. This section governs in the event it conflicts with the applicable arbitration rules. Under no circumstances will class action procedures or rules apply to the arbitration.  The Federal Arbitration Act (“FAA”) governs the arbitrability of all Disputes. The arbitrator will apply applicable substantive law consistent with the FAA and the applicable statute of limitations or condition precedent to suit.
+D. Arbitration Award. The arbitrator may award on an individual basis any relief that would be available pursuant to applicable law, and will not have the power to award relief to or for the benefit of any person who is not a party to the arbitration proceeding. The arbitrator shall make any award in writing and any award by the arbitrator will be final and binding on the parties, except for any right of appeal provided by the FAA, and may be entered in any court having jurisdiction over the parties for purposes of enforcement.
+E. Payment of Arbitration Fees and Costs. Absent a finding that your demand is frivolous, brought for an improper purpose, or malicious as set forth by the standards of Federal Rule of Civil Procedure 11(b), M.T  will pay all arbitration filing fees and arbitrator’s costs and expenses upon your written request given prior to the commencement of the arbitration. You are responsible for all additional fees and costs that you incur in the arbitration, including, but not limited to, attorneys or expert witnesses. Fees and costs may be awarded as provided pursuant to applicable law. In addition to any rights to recover fees and costs under applicable law, if the arbitrator concludes that you are the prevailing party in an arbitration, you will be entitled to recover from M.T  your actual and reasonable attorney’s fees and costs as determined by the arbitrator.
+F. Class Action Waiver. The parties agree that the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a class (such as a class action, representative action, or consolidated action) unless both you and M.T  specifically agree in writing to do so following initiation of the arbitration. You cannot be a class representative, class member, or otherwise participate in a class, representative, consolidated or private attorney general proceeding.
+G. Waiver of Right to Trial. You acknowledge and agree that, by entering into this agreement, you and M.T are each agreeing to arbitration instead of the right to a trial before a judge or jury in a public court. In the absence of this Section, you and M.T  might otherwise have had a right or opportunity to bring Disputes in a court, before a judge or jury, and/or to participate or be represented in a case filed in court by others (including class actions). You are waiving those rights. Other rights that you would have if you went to court, such as the right to appeal and to certain types of discovery, may be more limited in arbitration. In general an arbitrator’s decision may not be appealed for errors of fact or law.
+H. Severability. If any clause within this Section (other than the Class Action Waiver clause above) is found to be illegal or unenforceable, that clause will be severed from this Section, and the remainder will be given full force and effect. 
+
+IV. Severability, Waiver. If any provision of this agreement shall be unlawful, void, or for any reason unenforceable,, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions. A provision of this agreement may be waived only by a written instrument executed by the party entitled to the benefit of such provision. The failure of any party at any time to require performance of any provision of this agreement shall in no manner affect such party’s right at a later time to enforce the same. A waiver of any breach of any provision of this agreement shall not be construed as a continuing waiver of other breaches of the same or other provisions of this agreement.
+
+V. Notices. M.T may provide you with notices, including those regarding changes to this agreement, by email, regular mail or postings on OneNote.
+
+VI. Assignment. This agreement (including the Guidelines), and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned or transferred by M.T without restriction.
+
+VII. Survival. Any and all provisions related to or regarding limitation of liability, disclaimers, arbitration, and indemnification hereby survive any termination of this agreement or any termination of your use of or subscription to OneNote.
+
+VIII. Headings; Entire agreement. The heading references herein are for convenience purposes only, do not constitute a part of this agreement and shall not be deemed to limit or affect any of the provisions hereof. The word including means including without limitation. This is the entire agreement between us relating to the subject matter herein and shall not be modified except in writing, signed by both parties, or by a change to this agreement or Guidelines made by M.T as set forth above.
+
+IX. Claims. You and M.T agree that any cause of action arising out of or related to OneNote must commence within one (1) year after the cause of action accrues. otherwise, such cause of action is permanently barred.
+
+X. Disclosures. The services hereunder are offered by M.T General Inquiries: 15664738128@gmail.com.
+
+XI. Apple App Store Additional Terms and Conditions. The following additional terms and conditions apply to you if you are using OneNote APP from the Apple App Store. To the extent the other terms and conditions of this agreement are less restrictive than, or otherwise conflict with, the terms and conditions of this Section, the more restrictive or conflicting terms and conditions in this Section apply, but solely with respect to OneNote APP from the Apple App Store.
+
+XII. Acknowledgement: M.T and you acknowledge that this agreement is concluded between M.T and you only, and not with Apple, Google or Huawei and that M.T, not Apple, Google or Huawei, is solely responsible for OneNote APP and the content thereof. To the extent this agreement provides for usage rules for OneNote APP that are less restrictive than the Usage Rules set forth for OneNote APP in the App Store Terms of Service, or are otherwise in conflict with those Usage Rules, the more restrictive Apple, Google or Huawei term applies.
+
+XII. Scope of License: The license granted to you for OneNote is limited to a non-transferable license to use OneNote on an iOS Product that you own or control and as permitted by the Usage Rules set forth in the App Store Terms of Service.
+
+XIV. Maintenance and Support: M.T is solely responsible for providing any maintenance and support services with respect to OneNote, as specified in this agreement (if any), or as required under applicable law. M.T and you acknowledge that Apple, Google or Huawei has no obligation whatsoever to furnish any maintenance and support services with respect to OneNote.
+
+XV. Product Claims: M.T and you acknowledge that M.T, not Apple, Google or Huawei, is responsible for addressing any claims by you or any third party relating to OneNote or your possession and/or use of the OneNote APP, including, but not limited to: (I) product liability claims; (II) any claim that the OneNote APP fails to conform to any applicable legal or regulatory requirement; and (III) claims arising under consumer protection or similar legislation. This agreement does not limit M.T's liability to you beyond what is permitted by applicable law.
+
+XVI. Intellectual Property Rights: M.T and you acknowledge that, in the event of any third party claim that the OneNote APP or your possession and use of the OneNote APP infringes that third party’s intellectual property rights, M.T, not Apple, Google or Huawei will be solely responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim.
+
+XVII. Legal Compliance: You represent and warrant that (I) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (II) you are not listed on any U.S. Government list of prohibited or restricted parties.
+
+XVIII . Developer Name and Address: M.T's contact information for any end-user questions, complaints or claims with respect to the OneNote APP is set forth above.
+
+IXX. Third Party Terms of agreement: You must comply with applicable third party terms of agreement when using the OneNote APP.
+
+XX. Third Party Beneficiary: M.T and you acknowledge and agree that Apple, Google, Huawei and its subsidiaries, are third party beneficiaries of this agreement, and that, upon your acceptance of the terms and conditions of this agreement, Apple, Google, Huawei will have the right (and will be deemed to have accepted the right) to enforce this agreement against you as a third party beneficiary thereof.
+
+Effective Date, April 22nd, 2024
